@@ -18,6 +18,6 @@ yarn run dev-server
 ```
 ## View:
 
-![alt text](/images/indecision_app.png)
+![alt text](public/images/indecision_app.png)
 
 A project of [Khandaker Akash](http://khandakerakash.xyz/).
